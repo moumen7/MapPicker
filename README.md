@@ -1,7 +1,7 @@
 # Click any country from map and the country gets highlighted.
 
 
-Simple overview:
+## Simple overview
 * Project is built using android/kotlin and following MVVM architecture pattern.
 * Open street maps is used to obtain the coordinates of the selected country, and the response is handled by Retrofit. [OSM Api documentation](https://nominatim.org/release-docs/latest/api/Search/)
 * Google maps Geojson utility takes the coordinates and draws over the map. [Google maps Geojson utility](https://developers.google.com/maps/documentation/android-sdk/utility/geojson)
