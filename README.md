@@ -15,3 +15,4 @@
 ## Important notes
 * Some countries might not repond due to OSM not providing response.
 * Project can be slow due to response taking a long time.(Can be handled either by downloading the coordinates(Will Implement this solution soon), Caching responses or using a Geochart with webview (Documentation of Geochart)[https://developers.google.com/chart/interactive/docs/gallery/geochart]
+* (Faster and offline version)[https://github.com/moumen7/Map_picker]
